@@ -1,0 +1,35 @@
+Atributo;Descripcion
+deathRate;Muertes promedio de cancer por cada 100.000 habitantes
+avgAnnCount;Numero promedio de casos diagnosticados de cancer reportados anualmente
+avgDeathsPerYear;Numero promedio de muertes reportadas por cancer
+incidenceRate;Numero de diagnosticos promedio de cancer por cada 100.000 habitantes.
+medianIncome;Ingreso mediano por condado
+poEst2015;Poblacion del condado
+povertyPercent;Porcentaje de la poblacion en la pobreza
+studyPerCap;Numero de ensayos clinicos relacionados con el cancer por condado
+binedInc;Ingreso mediano per capita (clasificado por decil)
+MedianAge;Edad mediana de los residentes del condado
+MedianAgeMale;Edad mediana de los residentes de sexo masculino del condado
+MedianAgeFemale;Edad mediana de los residentes de sexo femenino del condado
+Geography;Nombre del condado
+AvgHouseholdSize;Numero mediano de integrantes de una familia del condado
+PercentMarried;Porcentaje de residentes del condado que estan casados
+PctNoHS18_24;Porcentaje de residentes del condado entre las edades 18-24 cuyo mayor nivel educativo es menor a escuela primaria (sin terminar)
+PctHS18_24;Porcentaje de residentes del condado entre las edades 18-24 cuyo nivel educativo es escuela primaria
+PctSomeCol18_24;Porcentaje de residentes del condado entre las edades 18-24 cuyo nivel educativo es escuela secundaria
+PctBachDeg18_24;Porcentaje de residentes del condado entre las edades 18-24 cuyo nivel educativo es pregrado
+PctHS25_Over;Porcentaje de residentes del condado de edad igual o mayor a 25 cuyo nivel educativo es escuela primaria
+PctBachDeg25_Over;Porcentaje de residentes del condado de edad igual o mayor a 25 cuyo nivel educativo es pregrado
+PctEmployed16_Over;Porcentaje de residentes del condado de edades mayores a 16 que tienen empleo
+PctUnemployed16_Over;Porcentaje de residentes del condado de edades mayores a 16 que estan desemplados
+PctPrivateCoverage;Porcentaje de residentes del condado con cobertura de salud privada
+PctPrivateCoverageAlone;Porcentaje de residentes del condado con covertura de salud unicamente (sin financiacion publica)
+PctEmpPrivCoverage;Porcentaje de residentes del condado con cobertura de salud privada cubierta por el empelador.
+PctPublicCoverage;Porcentaje de residentes del condado con cobertura de salud privada cubierta por el empelador.
+PctPublicCoverageAlone;Porcentaje de residentes del condado con cobertura de salud cubierta por el gobierno
+PctWhite;Porcentaje de residentes del condado que se identifican como blancos
+PctBlack;Porcentaje de residentes del condado que se identifican como negros
+PctAsian;Porcenaje de residentes del condado que se identifican como asiaticos.
+PctOtherRace;Porcentaje de residentes del condado que no se identifican como blancos, negros o asiaticos.
+PctMarriedHouseholds;Porcentaje de matrimonios.
+BirthRate;Numero de nacimientos vivos relativo al numero de mujeres del condado
